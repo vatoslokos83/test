@@ -1,3 +1,3 @@
 <?php
 echo 'wow';
-echo 'index.php';
+echo 'edited';
